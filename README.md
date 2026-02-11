@@ -1,11 +1,5 @@
 # 💰 Financial RAG Chatbot
 
-[
-[
-[
-[
-[
-[
 
 **100% Local RAG chatbot** for financial PDFs using **LangChain + Ollama + ChromaDB + Streamlit**. Upload PDFs dynamically, chat instantly—no cloud costs!
 
